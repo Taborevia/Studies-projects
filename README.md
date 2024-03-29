@@ -12,23 +12,23 @@
 - Physics
 - Legal Problems of Computer Science
 ## Semester 3:
-Probability and Statistics
-Programming Technologies
-Databases and Information Systems
-Computer Architecture and Operating Systems
+- Probability and Statistics
+- Programming Technologies
+- Databases and Information Systems
+- Computer Architecture and Operating Systems
 ## Semester 4:
-Network Technologies
-Algorithms and Data Structures
-Descrete Optimization Algorithms
-Introduction to Artificial Intelligence
-Modern Web Technologies
-Enterpreneurship
-Social Communication
+- Network Technologies
+- Algorithms and Data Structures
+- Descrete Optimization Algorithms
+- Introduction to Artificial Intelligence
+- Modern Web Technologies
+- Enterpreneurship
+- Social Communication
 ## Semester 5:
-Formal Languages and Translation Theory
-Scientific Computing
-Metaheuristic Algorithms
-Introduction to Graph Theory
-Concurrent Programming
-Team Programming
+- Formal Languages and Translation Theory
+- Scientific Computing
+- Metaheuristic Algorithms
+- Introduction to Graph Theory
+- Concurrent Programming
+- Team Programming
 
