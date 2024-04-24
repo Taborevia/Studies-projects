@@ -13,7 +13,7 @@
 - Legal Problems of Computer Science
 ## Semester 3:
 - Probability and Statistics
-- Programming Technologies
+- Programming Technologies [](https://github.com/Taborevia/warcaby)
 - Databases and Information Systems
 - Computer Architecture and Operating Systems
 ## Semester 4:
@@ -25,14 +25,14 @@
 - Enterpreneurship
 - Social Communication
 ## Semester 5:
-- Formal Languages and Translation Theory
+- Formal Languages and Translation Theory [](https://github.com/Taborevia/Compiler)
 - Scientific Computing
 - Metaheuristic Algorithms
 - Introduction to Graph Theory
 - Concurrent Programming
-- Team Programming
-## Semester 6(in progress):
-- Embedded Systems(github.com/Taborevia/Embedded-Systems/)
+- Team Programming [](https://github.com/Taborevia/Blockchain-Voting-System)
+## Semester 6 (in progress):
+- Embedded Systems [](https://github.com/Taborevia/Embedded-Systems)
 - Computer Security
 - Theoretical Fundamentals of Computer Science
 - Programming Languages and Paradigms
