@@ -31,4 +31,9 @@
 - Introduction to Graph Theory
 - Concurrent Programming
 - Team Programming
-
+## Semester 6(in progress):
+- Embedded Systems(github.com/Taborevia/Embedded-Systems/)
+- Computer Security
+- Theoretical Fundamentals of Computer Science
+- Programming Languages and Paradigms
+- Selected Topics from Algebra
