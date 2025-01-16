@@ -31,9 +31,13 @@
 - Introduction to Graph Theory
 - Concurrent Programming
 - [Team Programming](https://github.com/Taborevia/Blockchain-Voting-System)
-## Semester 6 (in progress):
+## Semester 6:
 - [Embedded Systems](https://github.com/Taborevia/Embedded-Systems)
 - Computer Security
 - Theoretical Fundamentals of Computer Science
 - Programming Languages and Paradigms
 - Selected Topics from Algebra
+## Semester 7:
+- Programmer Environment
+- Diploma Seminar
+- [Engineering Thesis](https:///github.com/Taborevia/BSc-thesis)
